@@ -8,3 +8,8 @@ The program that is an intermediary between any application program interfacing 
     cmake ..
     make
     sudo make install
+
+## Uninstall
+ To remove system files created by the installation of this repo.
+
+    sudo make uninstall
