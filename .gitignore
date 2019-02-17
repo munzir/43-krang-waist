@@ -5,6 +5,9 @@
 !README.md
 
 !CMakeLists.txt
+!/cmake/
+/cmake/*
+!/cmake/cmake_uninstall.cmake.in
 
 !krang-waist.cpp
 !krang-waist.h
