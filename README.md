@@ -6,7 +6,6 @@ The program that is an intermediary between any application program interfacing 
     mkdir build
     cd build
     cmake ..
-    make
     sudo make install
 
 ## Uninstall
